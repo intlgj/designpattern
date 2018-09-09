@@ -2,7 +2,7 @@ package com.intl.designpattern.proxy;
 
 /**
  * designpattern
- *
+ * 实现类
  * @author intlgj
  * @create 2018/8/26
  **/
