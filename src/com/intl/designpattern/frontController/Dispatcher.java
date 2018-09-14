@@ -1,6 +1,7 @@
 package com.intl.designpattern.frontController;
 
 /**
+ * 处理器：
  * 调度器，用于分配请求
  *
  * @author intlgj
