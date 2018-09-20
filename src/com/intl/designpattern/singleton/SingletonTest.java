@@ -12,6 +12,6 @@ public class SingletonTest {
         Singleton singletion = Singleton.getInstance();
         Singleton2 singletion2 = Singleton2.getInstance();
         Singleton2 singletion3 = Singleton2.getInstance();
-        System.out.println("hello singleton ");
+        System.out.println("hello singleton2333588 ");
     }
 }
