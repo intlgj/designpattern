@@ -1,3 +1,5 @@
+package main.java.com.intl.designpattern;
+
 public class Main {
 
     // hello word 很帅
